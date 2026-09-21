@@ -1,0 +1,6 @@
+{
+  "name": "Healthify AI",
+  "description": "AI-powered personal health and fitness tracking with natural-language parsing for meals and workouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
